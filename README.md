@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <a href="/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;目前我正在学习Golang!并尝试搭建一些项目。&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=目前我正在学习Golang!并尝试搭建一些项目。&center=true&size=27">
   </a>
 </h1>
 😄在2016年，我已经对它们有所了解
