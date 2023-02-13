@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=目前我正常学习Golang!尝试搭建项目！&center=true&size=27">
+  <a href="/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);目前我正常学习Golang!并尝试搭建一些项目。&center=true&size=27">
   </a>
 </h1>
 😄在2016年，我已经对它们有所了解
