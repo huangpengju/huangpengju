@@ -9,11 +9,11 @@
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
-  <a href="https://github.com/huangpengju" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
+  <a href="https://github.com/huangpengju" target="_blank"><img src="https://img.shields.io/badge/GitHub-huangpengju-brightgreen"></a>
   <!-- Gitee徽章 -->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gitee-huangpengju--creator-orange"></a>
   <!-- CSDN徽章 -->
- <a href="https://blog.csdn.net/weixin_41989013?spm=1011.2432.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
+ <a href="https://blog.csdn.net/weixin_41989013?spm=1011.2432.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-huangpengju-yellow"></a>
   <!-- 个人网站徽章 -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
@@ -21,7 +21,8 @@
   
     <!-- 公司 -->
     <a href="http://www.zzvcom.com/A01/lib/defaultstyle/vcom/integration.html" target="_blank">
-      ![](https://img.shields.io/badge/%E5%85%AC%E5%8F%B8-VCOM-brightgreen)
+      <!-- ![](https://img.shields.io/badge/%E5%85%AC%E5%8F%B8-VCOM-brightgreen) -->
+      <img src="https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E5%8D%95%E4%BD%8D-Vcom-brightgreen" alt="工作单位">
     </a>
   <!-- 访客徽章 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=huangpengju&left_color=green&right_color=red">
