@@ -1,4 +1,3 @@
 ### Hi there 👋
-https://count.getloli.com/get/@:huangpengju
-<img src="https://count.getloli.com/get/@:huangpengju" alt=":huangpengju" />
+###主页打开次数
 ![:huangpengju](https://count.getloli.com/get/@:huangpengju)
