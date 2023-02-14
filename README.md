@@ -4,8 +4,7 @@
 [![huangpengju GitHub stats](https://github-readme-stats.vercel.app/api?username=huangpengju)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![huangpengju's github activity graph](https://activity-graph.herokuapp.com/graph?username=huangpengju&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![huangpengju's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=huangpengju&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 主页打开次数
 ![:huangpengju](https://count.getloli.com/get/@:huangpengju)
 
