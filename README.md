@@ -1,19 +1,20 @@
-#### huangpengju
+### 黄鹏举
 <h1 align="center">
-  <a href="#">
+  <!-- <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm huangpengju;零壹年秋,生于北方!&center=true&size=27">
-  </a>
+  </a> -->
+  ![](https://img.shields.io/badge/%E5%85%AC%E5%8F%B8-VCOM-brightgreen)
 </h1>
-<h3 align="center">A struggling developer from China</h3>
+<!-- <h3 align="center">A struggling developer from China</h3> -->
 <br>
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
   <a href="https://github.com/huangpengju" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
   <!-- Gitee徽章 -->
-  <a href="https://gitee.com/huangpengju" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
   <!-- CSDN徽章 -->
- <a href="https://blog.csdn.net/Augenstern_QXL" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
+ <a href="https://blog.csdn.net/weixin_41989013?spm=1011.2432.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
@@ -46,7 +47,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=huangpengju&theme=dracula&bg_color=FF000000&hide_border=true" />
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=huangpengju&theme=dracula&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
