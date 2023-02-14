@@ -1,10 +1,9 @@
 ### 黄鹏举
-<h1 align="center">
-  <!-- <a href="#">
+<!-- <h1 align="center">
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm huangpengju;零壹年秋,生于北方!&center=true&size=27">
-  </a> -->
-  ![](https://img.shields.io/badge/%E5%85%AC%E5%8F%B8-VCOM-brightgreen)
-</h1>
+  </a>
+</h1> -->
 <!-- <h3 align="center">A struggling developer from China</h3> -->
 <br>
 <!-- 徽章start -->
@@ -19,6 +18,11 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
   </a>
+  
+    <!-- 公司 -->
+    <a href="http://www.zzvcom.com/A01/lib/defaultstyle/vcom/integration.html" target="_blank">
+      ![](https://img.shields.io/badge/%E5%85%AC%E5%8F%B8-VCOM-brightgreen)
+    </a>
   <!-- 访客徽章 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=huangpengju&left_color=green&right_color=red">
 </p>
