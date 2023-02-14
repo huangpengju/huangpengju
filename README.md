@@ -19,11 +19,10 @@
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
   </a>
   
-    <!-- 公司 -->
-    <a href="http://www.zzvcom.com/A01/lib/defaultstyle/vcom/integration.html" target="_blank">
-      <!-- ![](https://img.shields.io/badge/%E5%85%AC%E5%8F%B8-VCOM-brightgreen) -->
-      <img src="https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E5%8D%95%E4%BD%8D-Vcom-brightgreen" alt="工作单位">
-    </a>
+<!-- 公司 -->
+<a href="http://www.zzvcom.com/A01/lib/defaultstyle/vcom/integration.html" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E5%8D%95%E4%BD%8D-Vcom-brightgreen" alt="工作单位">
+</a>
   <!-- 访客徽章 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=huangpengju&left_color=green&right_color=red">
 </p>
@@ -56,3 +55,17 @@
     </td>
   </tr>
 </table>
+
+
+### Hi there 👋
+
+![](https://img.shields.io/badge/%E5%85%AC%E5%8F%B8-VCOM-brightgreen)
+[![huangpengju GitHub stats](https://github-readme-stats.vercel.app/api?username=huangpengju)](https://github.com/anuraghazra/github-readme-stats)
+
+[![huangpengju's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=huangpengju&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 主页打开次数
+![:huangpengju](https://count.getloli.com/get/@:huangpengju)
+
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Augenstern-creator&theme=dark)](https://git.io/streak-stats"> </div>
