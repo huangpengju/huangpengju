@@ -14,9 +14,9 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gitee-huangpengju-orange"></a>
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/weixin_41989013?spm=1011.2432.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-huangpengju-yellow"></a>
-  <!-- 个人网站徽章 -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
+  <!-- 个人博客 -->
+  <a href="https://huangpengju.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人博客">
   </a>
   
 <!-- 公司 -->
