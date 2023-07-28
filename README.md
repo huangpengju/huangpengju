@@ -48,10 +48,4 @@
 <!-- 统计卡片end -->
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=huangpengju&theme=dracula&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
+
