@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-orange" alt="个人博客">
   </a>
   
-<!-- 公司 -->
+<!-- 公司
 <a href="http://www.zzvcom.com/A01/lib/defaultstyle/vcom/integration.html" target="_blank">
     <img src="https://img.shields.io/badge/%E5%B7%A5%E4%BD%9C%E5%8D%95%E4%BD%8D-Vcom-brightgreen" alt="工作单位">
-</a>
+</a> -->
   <!-- 访客徽章 -->
  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=huangpengju&left_color=green&right_color=red"> -->
 </p>
